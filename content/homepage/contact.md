@@ -3,8 +3,6 @@ title: 'Contact'
 weight: 4
 header_menu: true
 ---
-E-Mail: [mail@davidy@funkypneguin.co.nz](mailto:davidy@funkypenguin.co.nz)
 
-Tel.: +49 1111 555555
+Come and say hi in our [friendly Discord server](http://chat.funkypenguin.co.nz), or if you like it old-school, drop an email to [mail@davidy@funkypenguin.co.nz](mailto:davidy@funkypenguin.co.nz)
 
-Let us get in-touch!

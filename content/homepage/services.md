@@ -1,13 +1,13 @@
 ---
 title: 'Architecture'
-weight: 2
+weight: 3
 header_menu: true
 ---
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+Let's get to it. Why Kubernetes? What's CI/CD? Are you some sort of sucker for punishment?
 
 ---
 
-## Nutrition Coaching
+## Kubernetes
 
 This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
 
