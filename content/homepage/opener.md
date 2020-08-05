@@ -1,9 +1,13 @@
 ---
-title: 'Welcome'
+title: 'Welcome 👋🏻'
 weight: 1
 ---
 
-Welcome, ADA hodler! This page describes Funky Penguin's staking pool (*one of 600+ pools available!*), and attempts to convince you why you should delegate your ADA with us!
+Welcome, fellow geek! The following describes Funky Penguin's geeky, kubernetes-based staking pool!
+
+##### Why should you delegate with me?
+
+You've seen [Funky Penguin's Geek Cookbook](https://geek-cookbook.funkypenguin.co.nz), and you like how I roll. Scroll down to be convinced!
 
 TL;DR | 
 ---------|----------
