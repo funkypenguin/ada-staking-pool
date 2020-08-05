@@ -12,3 +12,4 @@ TL;DR |
  Variable fee | 3.141% (*pi*)
  Address | `704250c3f9c01ccaba43aa137c4185befa811cea0693fd736ee04e8e`
 Pooltool | [Details here](https://pooltool.io/pool/704250c3f9c01ccaba43aa137c4185befa811cea0693fd736ee04e8e) 
+ADAPools | [Details here](https://adapools.org/pool/704250c3f9c01ccaba43aa137c4185befa811cea0693fd736ee04e8e)

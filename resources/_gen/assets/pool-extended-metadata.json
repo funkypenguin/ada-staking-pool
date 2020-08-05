@@ -1,0 +1,40 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https:\/\/raw.githubusercontent.com\/cardanians\/adapools.org\/master\/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon",
+        "url_png_logo": "https://geek-cookbook.funkypenguin.co.nz/images/site-logo.png",
+        "location": "London, England",
+        "social": {
+            "twitter_handle": "funkypenguin",
+            "telegram_handle": "funkypenguin",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "funkypenguinnz",
+            "discord_handle": "funkypenguin",
+            "github_handle": "funkypenguin"
+        },
+        "company": {
+            "name": "Funky Penguin Limited",
+            "addr": "",
+            "city": "",
+            "country": "New Zealand",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Hi, I'm David, your friendly container geek",
+            "server": "Digital Ocean managed Kubernetes cluster",
+            "company": "Funky Penguin Limited"
+        },
+        "rss": "https://www.funkypenguin.co.nz/feed.xml"
+    },
+    "my-pool-ids": [
+        "704250c3f9c01ccaba43aa137c4185befa811cea0693fd736ee04e8e",
+    ],
+    "when-satured-then-recommend": [
+        "60397646d7d1ad6fe2ddccfe7efc9cba61f6d3d94d29e8f41de73240"
+    ],
+    "telegram-admin-handle": [
+        "funkypenguin"
+    ]
+}
