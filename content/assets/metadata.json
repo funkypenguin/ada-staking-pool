@@ -3,5 +3,5 @@
     "description": "Funky Penguin's Friendly Staking Pool",
     "ticker": "FUNKY",
     "homepage": "https://ada-staking-pool.funkypenguin.co.nz",
-    "extended": "https://ada-staking-pool.funkypenguin.co.nz/assets/pool-extended-metadata.json"
+    "extended": "https://ada-staking-pool.funkypenguin.co.nz/assets/metadata-extended.json"
 }
